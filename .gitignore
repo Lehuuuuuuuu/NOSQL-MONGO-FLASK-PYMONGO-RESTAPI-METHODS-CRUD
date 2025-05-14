@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+__pycache__
+
+
+# VS Code
+.vscode
+.vscode/
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.flaskenv
+
+# MongoDB (local dump/backups)
+dump/
+*.bson
+*.json
+
+
+# Flask-related
+instance/
+*.egg-info/
+
+# Others
+*.tgz
+*.tar.gz
+*.bak
+*.tmp
+*.orig
+
+# dotenv-linter or linters
+*.lint
+
+# Logs
+*.log
+
+
+# pip tools
+pip-log.txt
+pip-delete-this-directory.txt
