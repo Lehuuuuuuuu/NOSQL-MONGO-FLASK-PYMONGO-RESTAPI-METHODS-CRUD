@@ -69,26 +69,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 ![image](https://github.com/user-attachments/assets/53153400-86e8-4837-9e29-6e59ac707b7a)
 
 
-flask-mongo-api/
-├── run.py
-├── .flaskenv
-├── .gitignore
-├── .env
-├── requirements.txt
-├── package/
-│   ├── routes/
-│   │   └── product.py
-│   ├── models/
-│   │   └── product_model.py
-│   └── db/
-│       └── __init__.py
-|       └── configdb.py
-|       └── mongodb.py
-|       ├── models/
-|          └── product_model.py
-└── README.md
-
-
 ## 🤝 Contributing
 ### Pull requests are welcome!
 ### To contribute:
