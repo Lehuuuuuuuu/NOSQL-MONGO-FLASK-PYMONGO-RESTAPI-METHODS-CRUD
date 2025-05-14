@@ -10,11 +10,9 @@ A lightweight and scalable RESTful API built with **Flask** and **MongoDB**, des
 2. [Tech Stack](#-tech-stack)
 3. [Getting Started](#-getting-started)
 4. [API Endpoints](#-api-endpoints)
-5. [Sample `curl` Usage](#-sample-curl-usage)
-6. [Project Structure](#-project-structure)
-7. [Contributing](#-contributing)
-8. [License](#-license)
-9. [Author](#-author)
+5. [Project Structure](#-project-structure)
+6. [Contributing](#-contributing)
+7. [Author](#-author)
 
 ---
 
@@ -34,7 +32,7 @@ A lightweight and scalable RESTful API built with **Flask** and **MongoDB**, des
 
 - **Language:** Python 3.10+
 - **Framework:** Flask
-- **Database:** MongoDB
+- **Database:** MongoDB (NoSQL)
 - **Driver:** PyMongo
 - **Environment Config:** `python-dotenv`
 - **Testing:** Postman / Curl
@@ -67,6 +65,9 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 
 ## 🗂 Project Structure
+
+![image](https://github.com/user-attachments/assets/53153400-86e8-4837-9e29-6e59ac707b7a)
+
 
 flask-mongo-api/
 ├── run.py
